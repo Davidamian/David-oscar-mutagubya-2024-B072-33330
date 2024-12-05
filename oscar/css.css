@@ -1,0 +1,45 @@
+body{
+	font-family:arial,sans-serif;
+	margin:0;
+	padding:0;
+background-color:#f4f4f4;
+}
+.container{
+	width:80%;
+	marin:auto;
+}
+/*Header styles*/
+header{
+	background-color:#333;
+	color:white;
+	padding:10px 0;
+	text-align:center;
+}
+header h1{
+	margin:0;
+	font-size:39px;
+}
+nav ul{
+	list style:none;
+	padding:0;
+}
+nav ul li a:hover{
+	text-decoration:# underline;
+}
+/*contact section*/
+#contact {
+	background-color:#fff;
+	padding 20px 0;
+}
+#contact form{
+	max width:60px
+	margin:auto;
+}
+#contact label{
+	dispaly:block;
+	margin-bottom:20px;
+}
+#contact button:{
+	padding:20px;
+	background-color;#333;
+}
